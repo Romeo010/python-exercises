@@ -1,0 +1,13 @@
+Player 1     Player 2    Result
+         
+Rock         Rock        Tie
+Rock         Scissors    Player 1
+Rock         Paper       Player 2
+
+Scissors     Rock        Player 2
+Scissors     Scissors    Tie
+Scissors     Paper       Player 1
+
+Paper        Rock        Player 1
+Paper        Scissors    Player 2
+Paper        Paper       Tie
