@@ -30,7 +30,7 @@ for i in range(exp):
 print str(answer)
 
 # 4
-
+print ("program to check if a number is a multiple of 2")
 number_dual = input("Enter a number that is divisible by two: ")
 
 while number_dual % 2 !=0:
@@ -70,6 +70,7 @@ program to calculate exponentials
 Enter the base number: 4
 Enter the exponent number: 2
 16
+program to check if a number is a multiple of 2
 Enter a number that is divisible by two: 2
 Correct
 >>> 
